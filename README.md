@@ -1,1 +1,1 @@
-PROJETO " TIKTOK CLONE "Jornada Dev / EBAC
+https://tiktok-f6697.web.app/
